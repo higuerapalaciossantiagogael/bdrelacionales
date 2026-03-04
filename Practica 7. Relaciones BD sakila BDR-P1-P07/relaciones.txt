@@ -1,0 +1,27 @@
+Vista de relaciones:
+Higuera Palacios Santiago Gael.
+Medina Quintero Derek.
+4AMP 04/03/2026
+
+customer_id: uno a muchos (5)
+
+staff_id: muchos a uno (3)
+
+renta_id: muchos a muchos (11)
+
+film_id: muchos a uno (5)
+
+country_id: uno a muchos (5)
+
+store_id: uno a muchos (3)
+
+actor_id: uno a muchos (5) 
+
+address_id: uno a uno (5)
+
+languaje_id: muchos a muchos (3)
+
+original_languaje_id: uno a muchos(3)
+
+city_id: muchos a muchos (5)
+
